@@ -40,7 +40,7 @@ export default {
           icon: 'phone_iphone'
         },
         {
-          name: 'Headphone',
+          name: 'HeadPhone',
           icon: 'headphones'
         },
         {
